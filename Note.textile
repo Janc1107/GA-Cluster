@@ -1,0 +1,3 @@
+# There may be a cluster that contains 0 structures
+# Clusters that has 0 or 1 structures can't do GA
+= How many structures should a cluster has at least?
